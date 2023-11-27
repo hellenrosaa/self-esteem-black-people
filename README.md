@@ -1,5 +1,5 @@
 # Zuri: self-esteem of black-people
-Initial project to understand the self-esteem of black people with a focus on the beauty market such as makeup, hair care, among others. This project started the zuri brand.
+This repository contains the initial project to understand the self-esteem of black people with a focus on the beauty market such as makeup, hair care, among others. This project started the zuri brand.
 
 ![Slide 1](/presentation/images/1.png)
 ![Slide 2](/presentation/images/2.png)
